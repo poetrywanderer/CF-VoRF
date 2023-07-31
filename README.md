@@ -20,5 +20,5 @@ scikit-image
 ```
 For torch-scatter: 
 ```
-pip install torch-scatter -f https://data.pyg.org/whl/torch-2.0.0+${CUDA}.html
+pip install torch-scatter -f https://data.pyg.org/whl/torch-2.0.0+${CUDA}.html # ${CUDA} is your cuda version, i.e. cu117
 ```

@@ -16,6 +16,7 @@ torch_efficient_distloss
 opencv-python
 ninja
 einops
+scikit-image
 ```
 For torch-scatter: 
 ```

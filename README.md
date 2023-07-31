@@ -1,7 +1,7 @@
 # CF-VoRF
 
 
-## Installation 
+### Installation 
 simply install the following required packages by ```pip install -r requirement.txt```
 ```
 numpy

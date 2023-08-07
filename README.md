@@ -5,7 +5,7 @@
 Simply install the required packages by 
 
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 For torch-scatter: 

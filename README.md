@@ -10,5 +10,5 @@ pip install -r requirements.txt
 
 For torch-scatter: 
 ```
-pip install torch-scatter -f https://data.pyg.org/whl/torch-2.0.0+${CUDA}.html # ${CUDA} is your cuda version, i.e. cu117
+conda install pytorch-scatter -c pyg
 ```
